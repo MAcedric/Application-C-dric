@@ -24,6 +24,8 @@
   <component name="ChangeListManager">
     <list default="true" id="cc51dc74-da96-4d04-8a81-a1e31aba64a8" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/Esiea3A/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Esiea3A" beforeDir="false" afterPath="$PROJECT_DIR$/Esiea3A" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Esiea3A/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Esiea3A/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Esiea3A/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Esiea3A/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Esiea3A/app/src/main/java/com/example/esiea3a/presentation/list/PokemonListFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Esiea3A/app/src/main/java/com/example/esiea3a/presentation/list/PokemonListFragment.kt" afterDir="false" />
@@ -68,5 +70,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1350" height="638" key="AVDManager" timestamp="1622113915835">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="AVDManager/0.0.1536.824@0.0.1536.824" timestamp="1622113915835" />
   </component>
 </project>
