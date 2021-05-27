@@ -27,6 +27,7 @@
       <change beforePath="$PROJECT_DIR$/Esiea3A" beforeDir="false" afterPath="$PROJECT_DIR$/Esiea3A" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Esiea3A/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Esiea3A/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Esiea3A/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Esiea3A/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Esiea3A/app/src/main/java/com/example/esiea3a/presentation/detail/PokemonDetailFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Esiea3A/app/src/main/java/com/example/esiea3a/presentation/detail/PokemonDetailFragment.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Esiea3A/app/src/main/java/com/example/esiea3a/presentation/list/PokemonListFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Esiea3A/app/src/main/java/com/example/esiea3a/presentation/list/PokemonListFragment.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Esiea3A/app/src/main/java/com/example/esiea3a/presentation/list/PokemonListViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Esiea3A/app/src/main/java/com/example/esiea3a/presentation/list/PokemonListViewModel.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Esiea3A/app/src/main/java/com/example/esiea3a/presentation/list/Singleton.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Esiea3A/app/src/main/java/com/example/esiea3a/presentation/list/Singleton.kt" afterDir="false" />
