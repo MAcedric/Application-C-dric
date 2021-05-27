@@ -24,12 +24,12 @@
   <component name="ChangeListManager">
     <list default="true" id="cc51dc74-da96-4d04-8a81-a1e31aba64a8" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/Esiea3A/.idea/runConfigurations.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Esiea3A" beforeDir="false" afterPath="$PROJECT_DIR$/Esiea3A" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Esiea3A/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Esiea3A/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Esiea3A/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Esiea3A/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Esiea3A/app/src/main/java/com/example/esiea3a/presentation/list/PokemonListFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Esiea3A/app/src/main/java/com/example/esiea3a/presentation/list/PokemonListFragment.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Esiea3A/app/src/main/java/com/example/esiea3a/presentation/list/PokemonListViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Esiea3A/app/src/main/java/com/example/esiea3a/presentation/list/PokemonListViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Esiea3A/app/src/main/java/com/example/esiea3a/presentation/list/Singleton.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Esiea3A/app/src/main/java/com/example/esiea3a/presentation/list/Singleton.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
